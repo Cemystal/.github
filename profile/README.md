@@ -1,1 +1,2 @@
-# A Cemystal szerver github profileja
+# Cemystal Network Developer Team GitHub
+# CSAK FEJLESZTŐKNEK, MENEDZSEREKNEK, ÉS TULAJDONOSOKNAK!
